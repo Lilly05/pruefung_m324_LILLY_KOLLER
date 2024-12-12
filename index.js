@@ -1,6 +1,6 @@
 import chalk from "chalk";
 
-console.log(chalk.blue("It works"));
+console.log(chalk.blue("It works on the main branch"));
 
 const myUnusedVariable = "Test";
 
